@@ -1,0 +1,13 @@
+img{
+    width: 150px;
+     height: 150px;
+}
+<style>
+div {
+    text-align: right;
+}
+</style>
+
+<div>
+<img src="El's image/a.jpg.JPG">
+</div>
